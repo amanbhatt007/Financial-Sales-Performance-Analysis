@@ -75,4 +75,25 @@ Format for Clarity: Apply consistent colors, clear axis labels, and conditional 
 <img width="1608" height="853" alt="Project 3 dashboard" src="https://github.com/user-attachments/assets/d9434763-093e-4e0a-a63f-46cddb2e0e33" />
 
 
+## Project Insights
+- Total Revenue (Sales): $118,726,350.26.
+- Total Net Profit: $16,893,702.26.
+- Overall Profit Margin: $14.23\%$.
+- Most Profitable Country: France is the most profitable country, generating $3,781,020.78 in profit.
+- Sales and Units Sold Comparison: The United States of America had the highest Total Sales ($25.03 million), while Canada had the highest Total Units Sold ($247,428.5$ units).
+- Top Seller (Volume & Value): The product Paseo is the top seller for both value ($33.01 million) and volume ($338,239.5$ units).
+- Highest Profit Segment: The Government segment yields the highest profit ($11,388,173.17).
+- Profit Contribution: The product Paseo ($28.40\%$) and the country France ($22.38\%$) are the largest contributors to total company profit.
+- Monthly and Yearly Trend: Both Sales and Profit show a Growing trend over the analyzed period.
+- Seasonal Spike: The highest Sales spike occurred in October 2014, and the highest Profit spike occurred in December 2014.
+- High Discount Effect on Units Sold: The High Discount band results in the largest volume of units sold ($398,085.5$ units).
+- Best Profit Discount Strategy: The Low Discount band delivers the best overall Profit ($6.19 million).
+- Flagship Product in US Profitability: In the US market, Velo ($265,401.00 Profit) is more profitable than **Carretera** ($238,491.55 Profit).
+- Average Sale Price by Product: The average Sale Price is highest for VTT ($138.59) and lowest for **Paseo** ($108.18).
+
+
+## Final Conclusion
+The comprehensive analysis of the financial sales data reveals a financially healthy and growing business, characterized by a $14.23\%$ overall profit margin and a clear upward trend in both sales and profitability over the analyzed period. Profitability is highly centralized, relying critically on a powerful core: the Government segment is the overwhelming driver of total profit, while the Paseo product serves as the primary revenue engine, dominating both sales and unit volume. Geographically, France leads the pack in profit generation. A key strategic insight highlights that while the High discount band is most effective at moving inventory and maximizing units sold, the Low discount band is the most financially sound policy, delivering the highest overall total profit. To ensure sustained success and optimize the bottom line, the key recommendation is to focus investment and resources on reinforcing these high-profit core areas (Government segment, Paseo product, and French market) and to strategically adjust discount policies to favor the Low discount band, thereby maximizing profit over pure volume. Further investigation into underperforming areas, such as the negative-profit Enterprise segment, is essential to mitigate long-term risk.
+Dashboard : <a href="https://github.com/amanbhatt007/Financial-Sales-Performance-Analysis/blob/main/Project%203(microsoft).pbix">View Dashboard</a>
+
 
